@@ -1,9 +1,9 @@
+import Header from "./components/Header";
+
 function App() {
   return (
     <div className="App">
-        <p>
-          Hello From React
-        </p>
+        <Header />
     </div>
   );
 }
